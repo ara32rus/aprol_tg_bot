@@ -2,3 +2,4 @@
 /Scripts/*
 /Include/*
 *.pyc
+/pyvenv.cfg
